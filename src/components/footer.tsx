@@ -26,7 +26,7 @@ export function Footer() {
     },
     {
       name: "X",
-      href: "URL_ADDRESS.com/isuryaprakashh",   
+      href: "https://x.com/isuryaprakashh",   
       icon: LucideTwitter             
     }   
   ]
