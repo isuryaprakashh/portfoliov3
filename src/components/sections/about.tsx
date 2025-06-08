@@ -27,7 +27,7 @@ export function About() {
                 <div className="flex justify-center">
                   <div className="w-64 h-64 bg-gradient-to-br from-primary/20 to-secondary/20 rounded-full flex items-center justify-center">
                     <div className="w-48 h-48 bg-primary/10 rounded-full flex items-center justify-center">
-                      <span className="text-6xl">👨‍💻</span>
+                      <span className="text-6xl"><img src="https://avatars.githubusercontent.com/u/163630713?v=4" alt="Surya Image" className="rounded-full"/></span>
                     </div>
                   </div>
                 </div>

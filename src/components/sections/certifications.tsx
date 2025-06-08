@@ -15,18 +15,18 @@ const certificationsData = [
     logo: "https://imgs.search.brave.com/fnJZEkPHx7HMdVhjp0-9d9zQcxqguSwxCi7CPdBsHfA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vMHhCSGRl/dHlWS1pWWS1TdS13/c3h1MUR1VWtMRnFI/bGNFOWlJeF91NjRE/cy9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTlw/YldGbi9aWE11YzJW/bGEyeHZaMjh1L1ky/OXRMMnh2WjI4dGNH/NW4vTHpRMEx6RXZi/Vzl1WjI5ay9ZaTFz/YjJkdkxYQnVaMTl6/L1pXVnJiRzluYnkw/ME5EUTQvTkRVdWNH/NW4"
   },
   {
-    title: "Programming in Java",
-    issuer: "NPTEL",
-    issued: "Apr 2024",
-    verificationUrl: "https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs43/Course/NPTEL24CS43S26990138930513096.pdf",
-    logo: "https://imgs.search.brave.com/_tL_dSXzmOYOKxJpqDhWHPi80xcUfKU-R6LLSZeMNCM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vUU8zdVNs/dmFJcWhDbWRTcVFS/ZWNjanBaT3VWX2dt/TGIzR0w5aUZDaGk0/TS9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNEb3ZMM05o/Ym1kaC9iWFZ1YVha/bGNuTnBkSGt1L1lX/TXVhVzR2ZDNBdFky/OXUvZEdWdWRDOTFj/R3h2WVdSei9Mekl3/TWpNdk1ETXZibkIw/L1pXd3VhbkJu"
-  },
-  {
     title: "Salesforce Certified AI Associate",
     issuer: "Salesforce",
     issued: "Oct 2024",
     verificationUrl: "https://www.salesforce.com/trailblazer/isuryaprakashh",
     logo: "https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000BEqgH&oid=00DF0000000gZsu&lastMod=1693557495000"
+  },
+  {
+    title: "Programming in Java",
+    issuer: "NPTEL",
+    issued: "Apr 2024",
+    verificationUrl: "https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs43/Course/NPTEL24CS43S26990138930513096.pdf",
+    logo: "https://imgs.search.brave.com/_tL_dSXzmOYOKxJpqDhWHPi80xcUfKU-R6LLSZeMNCM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vUU8zdVNs/dmFJcWhDbWRTcVFS/ZWNjanBaT3VWX2dt/TGIzR0w5aUZDaGk0/TS9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNEb3ZMM05o/Ym1kaC9iWFZ1YVha/bGNuTnBkSGt1L1lX/TXVhVzR2ZDNBdFky/OXUvZEdWdWRDOTFj/R3h2WVdSei9Mekl3/TWpNdk1ETXZibkIw/L1pXd3VhbkJu"
   }
 ]
 
